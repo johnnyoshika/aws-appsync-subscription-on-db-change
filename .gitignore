@@ -1,1 +1,8 @@
 node_modules
+output.txt
+package-lock.json
+payload.json
+publishBark.js
+publishBark.zip
+role-policy.json
+trust-relationship.json
