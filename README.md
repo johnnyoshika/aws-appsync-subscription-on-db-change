@@ -435,6 +435,9 @@ aws dynamodb put-item `
 --item 'id={S="123456789"},timestamp={S="2020-11-18:14:32:17"},message={S="Hello from the database"}'
 ```
 
+# If you also want the lambda function to send an SNS message, see:
+* `SNS.md`
+
 
 ## Resources:
 * https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.Lambda.Tutorial.html
